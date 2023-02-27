@@ -1,3 +1,5 @@
+Demo is published at: https://bjindal-22.github.io/DemoGame/
+
 Reelset:
 - Band 1: "hv2", "lv3", "lv3", "hv1", "hv1", "lv1", "hv1", "hv4", "lv1", "hv3", "hv2", "hv3", "lv4", "hv4", "lv1", "hv2", "lv4", "lv1", "lv3", "hv2"
 - Band 2: "hv1", "lv2", "lv3", "lv2", "lv1", "lv1", "lv4", "lv1", "lv1", "hv4", "lv3", "hv2", "lv1", "lv3", "hv1", "lv1", "lv2", "lv4", "lv3", "lv2"
@@ -80,5 +82,7 @@ host the build folder using any local server like http-server / wamp/ IIS etc
  or
 
  hs -p 8084 // this will host the build on localhost:8084
+ 
+ or open https://bjindal-22.github.io/DemoGame/
 
 
